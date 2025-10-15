@@ -60,10 +60,10 @@ Thanks for helping expand this open collection.
 
 ---
 
-### Theme: Fluent
-![Fluent](img/fluent.png)
+### Theme: Fluent Light
+![Fluent](img/fluent-light.png)
 
-**Name:** Fluent 
+**Name:** Fluent Light
 **Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/Fluent)
 
 ---
@@ -84,7 +84,7 @@ Thanks for helping expand this open collection.
 
 ---
 
-## Light Themes
+## Dark Themes
 
 ---
 
@@ -176,3 +176,86 @@ Thanks for helping expand this open collection.
 **Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/Windows-10-Dark)
 
 ---
+
+## Blue Themes
+
+---
+
+### Theme: Metallic Cyan
+![Metallic Cyan](img/metallic-cyan.png)
+
+**Name:** Metallic Cyan
+**Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/Metallic_Cyan)
+
+---
+
+### Theme: Winterbloom
+![Winterbloom](img/winterbloom.png)
+
+**Name:** Winterbloom
+**Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/Winterbloom)
+
+---
+
+## Green Themes
+
+---
+
+### Theme: Cinnamox Willow Grove
+![Cinnamox Willow Grove](img/cinnamox-willow-grove.png)
+
+**Name:** Cinnamox Willow Grove
+**Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/Cinnamox-Willow-Grove)
+
+---
+
+### Theme: Moonstone
+![Moonstone](img/moonstone.png)
+
+**Name:** Moonstone
+**Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/Moonstone)
+
+---
+
+### Theme: Spider Void
+![Spider Void](img/spider-void.png)
+
+**Name:** Spider Void
+**Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/Spider-Void)
+
+---
+
+## Orange Themes
+
+---
+
+### Theme: Cinnamox Gold Spice
+![Cinnamox Gold Spice](img/cinnamox-gold-spice.png)
+
+**Name:** Cinnamox Gold Spice
+**Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/Cinnamox-Gold-Spice)
+
+---
+
+## Red Themes
+
+---
+
+### Theme: Vivaldi ZorinOS
+![Vivaldi ZorinOS](img/vivaldi-zorinos.png)
+
+**Name:** Vivaldi ZorinOS
+**Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/Vivaldi-ZorinOS)
+
+---
+
+---
+
+### Theme: Vivaldi
+![Vivaldi](img/vivaldi.png)
+
+**Name:** Vivaldi
+**Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/Vivaldi)
+
+---
+
