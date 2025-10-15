@@ -83,3 +83,96 @@ Thanks for helping expand this open collection.
 **Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/Windows-10)
 
 ---
+
+## Light Themes
+
+---
+
+### Theme: Adapta Nokto
+![Adapta Nokto](img/adapta-nokto.png)
+
+**Name:** Adapta Nokto
+**Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/Adapta-Nokto)
+
+---
+
+### Theme: Adara Dark
+![Adara Dark](img/adara-dark.png)
+
+**Name:** Adara Dark
+**Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/Adara-Dark)
+
+---
+
+### Theme: CBlack Remix
+![CBlack Remix](img/cblack-remix.png)
+
+**Name:** CBlack Remix
+**Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/CBlack-Remix)
+
+---
+
+### Theme: Fluent Dark
+![Fluent Dark](img/fluent-dark.png)
+
+**Name:** Fluent Dark
+**Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/Fluent)
+
+---
+
+### Theme: Graphite One
+![Graphite One](img/graphite-one.png)
+
+**Name:** Graphite One
+**Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/Graphite-One)
+
+---
+
+### Theme: Graphite Zero
+![Graphite Zero](img/graphite-zero.png)
+
+**Name:** Graphite Zero
+**Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/Graphite-Zero)
+
+---
+
+### Theme: Mint X Dark
+![Mint X Dark](img/mint-x-dark.png)
+
+**Name:** Mint X Dark
+**Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/Mint-X-Dark)
+
+---
+
+### Theme: Nergis Dark
+![Nergis Dark](img/nergis-dark.png)
+
+**Name:** Nergis Dark
+**Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/Nergis-Dark)
+
+---
+
+### Theme: Obsidian
+![Obsidian](img/obsidian.png)
+
+**Name:** Obsidian
+**Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/Obsidian)
+
+---
+
+### Theme: Orchis Dark
+![Orchis Dark](img/orchis-dark.png)
+
+**Name:** Orchis Dark
+**Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/Orchis-Dark)
+
+---
+
+
+### Theme: Windows 10 Dark
+![Windows 10 Dark](img/windows-10-dark.png)
+
+**Name:** Windows 10 Dark
+**Link:** [Download](https://cinnamon-spices.linuxmint.com/themes/view/Windows-10-Dark)
+
+---
