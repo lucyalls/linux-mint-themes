@@ -1,5 +1,15 @@
 # Linux Mint Themes
 
+## Table of Contents
+- [Light Themes](#light-themes)
+- [Dark Themes](#dark-themes)
+- [Blue Themes](#blue-themes)
+- [Green Themes](#green-themes)
+- [Orange Themes](#orange-themes)
+- [Red Themes](#red-themes)
+
+---
+
 ## How to Add New Themes
 
 You’re welcome to contribute and expand this collection!  
